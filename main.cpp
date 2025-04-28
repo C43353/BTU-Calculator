@@ -29,7 +29,9 @@ int main() {
 
 	btuCalculator.displayResults();
 
-	system("pause");
+	cout << "Press Enter to exit...";
+	cin.ignore();
+	cin.get();
 
 	return 0;
 }
