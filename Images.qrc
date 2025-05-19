@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Kam logo.jpg</file>
+        <file>REFCOM Certified logo.png</file>
+    </qresource>
+</RCC>
